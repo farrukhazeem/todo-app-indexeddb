@@ -1,0 +1,24 @@
+.task--creator {
+
+    flex: 1;
+    padding-top: 20px;
+
+    label, input{
+          width: 100%; 
+          display: block;
+          box-sizing: border-box;
+    }
+    label{
+        margin-bottom: 3px;
+        font-size: 16px;
+    }
+
+input {
+    padding: 15px 10px;
+    font-family: Helvetica;
+    font-size: 15px;
+    color: #333;
+    border: none;
+    border-radius: 6px;
+}
+}
